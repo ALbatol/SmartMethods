@@ -25,5 +25,5 @@ After the robot have navigate the place now it can save the map and reopen Gazeb
 
 ![project6](https://user-images.githubusercontent.com/85957795/123165354-cb7e0900-d47c-11eb-9952-f044721fb6da.png)
 
-The map now is saved in the test_map file (test_map.yaml) 
+The map now is saved in the test_map.yaml file and here it's link
 https://github.com/ALbatol/SmartMethods/blob/c88b16a1a5a89075eed2f94e2d02ff685de42ed4/test_map.yaml
