@@ -2,7 +2,7 @@
 ROS robot with SLAM approach to create and save a map
 
 This ROS project is about a drive robot that drives to an unknown map. It also implements SLAM on a 2 wheeled differential drive robot to map an unknown environment.
-A joystick is used to teleoperate the robot in Gazebo. The map is generated then it's used for autonomous navigation using the ROS Navigation stack.
+A joystick or a keyboard is used to teleoperate the robot in Gazebo. The map is generated then it's used for autonomous navigation using the ROS Navigation stack.
 
 Fisrt, I have installed all the package and dependencies from https://github.com/devanshdhrafani/diff_drive_bot.git .
 Then, I have launched Gazebo as shown.
